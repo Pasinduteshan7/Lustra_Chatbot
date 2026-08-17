@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node.js (frontend)
+frontend/node_modules/
+frontend/.next/
+
+# Large model files (download separately)
+model/*.gguf
+
+# FAISS index (rebuild with build_index.py)
+# index.faiss
