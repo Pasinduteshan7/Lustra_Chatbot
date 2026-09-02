@@ -1,162 +1,337 @@
 [
   {
     "heading": "General",
-    "text": "General:\nBEAUTY KNOWLEDGE BASE FOR FINE-TUNING\n====================================",
+    "text": "General:\nBEAUTY & SKINCARE KNOWLEDGE BASE\n====================================",
     "id": 0
   },
   {
-    "heading": "SKINCARE FACTS",
-    "text": "SKINCARE FACTS:\n- Acne is caused by excess sebum, dead skin cells, and bacteria (Cutibacterium acnes)\n- Salicylic acid (BHA) penetrates pores; Glycolic acid (AHA) exfoliates surface\n- Sunscreen SPF 30+ blocks 97% of UVB rays; SPF 50+ blocks 98%\n- Moisturizer should be applied to damp skin to lock in hydration\n- Face should be cleansed twice daily: morning and before bed\n- Retinol increases skin cell turnover and collagen production\n- Hyaluronic acid can hold up to 1000x its weight in water\n- Clay masks are good for oily skin; hydrating masks for dry skin",
+    "heading": "SKINCARE FUNDAMENTALS",
+    "text": "SKINCARE FUNDAMENTALS:\n- Acne is caused by excess sebum, dead skin cells, and bacteria (Cutibacterium acnes)\n- Salicylic acid (BHA) penetrates pores; Glycolic acid (AHA) exfoliates surface\n- Sunscreen SPF 30+ blocks 97% of UVB rays; SPF 50+ blocks 98%\n- Moisturizer should be applied to damp skin to lock in hydration\n- Face should be cleansed twice daily: morning and before bed\n- Retinol increases skin cell turnover and collagen production\n- Hyaluronic acid can hold up to 1000x its weight in water\n- Clay masks are good for oily skin; hydrating masks for dry skin\n- The skin barrier is made of lipids (ceramides, cholesterol, fatty acids) that keep moisture in and irritants out\n- Skin pH is naturally acidic (4.5-5.5); harsh cleansers and soaps disrupt this balance\n- New skin cells take roughly 28 days to cycle to the surface in younger skin, slowing to 40-60 days with age",
     "id": 1
   },
   {
-    "heading": "Routine for Oily Skin",
-    "text": "Routine for Oily Skin:\n1. Gentle cleanser (morning & evening)\n2. Toner or essence (balancing)\n3. Lightweight moisturizer (oil-free)\n4. Sunscreen SPF 30+ (daily)\n5. Exfoliate 2x weekly (BHA/AHA)",
+    "heading": "SKIN TYPE IDENTIFICATION",
+    "text": "SKIN TYPE IDENTIFICATION:\n- Oily skin: shiny by midday, especially T-zone, larger visible pores, prone to breakouts\n- Dry skin: tight feeling, flaky patches, fine lines more visible, rarely shiny\n- Combination skin: oily T-zone (forehead, nose, chin) with normal or dry cheeks\n- Normal skin: balanced oil production, few concerns, small pores\n- Sensitive skin: reacts easily to products with redness, stinging, or itching\n- Dehydrated skin (different from dry skin type): lacks water, can affect any skin type, feels tight but may still be oily",
     "id": 2
   },
   {
-    "heading": "Routine for Dry Skin",
-    "text": "Routine for Dry Skin:\n1. Gentle cleanser (non-stripping)\n2. Hydrating toner (glycerin-based)\n3. Serum (hyaluronic acid)\n4. Rich moisturizer (ceramides, oils)\n5. Sunscreen SPF 30+\n6. Weekly hydrating mask",
+    "heading": "ROUTINE FOR OILY SKIN",
+    "text": "ROUTINE FOR OILY SKIN:\n1. Gentle foaming cleanser (morning & evening)\n2. Niacinamide serum to regulate oil (5%)\n3. Oil-free, lightweight gel moisturizer\n4. Sunscreen SPF 30+, matte or gel finish (daily)\n5. Exfoliate 2-3x weekly (BHA/Salicylic Acid)",
     "id": 3
   },
   {
-    "heading": "Routine for Combination Skin",
-    "text": "Routine for Combination Skin:\n1. Gentle cleanser\n2. Toner (balanced formula)\n3. Lightweight moisturizer\n4. Sunscreen SPF 30+\n5. Targeted treatments (oil control for T-zone)",
+    "heading": "ROUTINE FOR DRY SKIN",
+    "text": "ROUTINE FOR DRY SKIN:\n1. Gentle, non-foaming cream cleanser (morning & evening)\n2. Hydrating toner or essence (glycerin-based)\n3. Hyaluronic Acid serum on damp skin\n4. Rich moisturizer with ceramides, squalane, or oils\n5. Sunscreen SPF 30+ (hydrating formula)\n6. Weekly hydrating mask or occasional \"slugging\"",
     "id": 4
   },
   {
-    "heading": "MAKEUP TIPS",
-    "text": "MAKEUP TIPS:\n- Always use primer to help makeup last longer\n- Set makeup with setting spray for 12+ hours\n- Blend foundation in upward motions\n- Use setting powder only where needed (T-zone)\n- Highlighter should be applied sparingly\n- Contour placement: hollows of cheeks, sides of nose, jawline",
+    "heading": "ROUTINE FOR COMBINATION SKIN",
+    "text": "ROUTINE FOR COMBINATION SKIN:\n1. Gentle gel-to-foam cleanser\n2. Niacinamide serum all over (balances oil and hydrates)\n3. Salicylic Acid only on the oily T-zone\n4. Lightweight gel moisturizer everywhere, richer cream on dry cheeks\n5. Sunscreen SPF 30+, lightweight formula",
     "id": 5
   },
   {
-    "heading": "ACNE TREATMENT",
-    "text": "ACNE TREATMENT:\n- Benzoyl peroxide (2.5-5%) kills bacteria and unclogs pores\n- Salicylic acid (0.5-2%) exfoliates and prevents clogging\n- Tretinoin (prescription) is highly effective for severe acne\n- Azelaic acid helps with inflammation and bacterial acne\n- Niacinamide reduces sebum production and inflammation\n- Avoid picking/popping (increases scarring risk)\n- Take 6-8 weeks to see results with new treatments",
+    "heading": "ROUTINE FOR SENSITIVE SKIN",
+    "text": "ROUTINE FOR SENSITIVE SKIN:\n1. Fragrance-free, gentle cream cleanser\n2. Soothing toner (Centella Asiatica, Panthenol)\n3. Minimal, gentle actives only after patch testing\n4. Barrier-repair moisturizer with ceramides\n5. Mineral (zinc oxide) sunscreen, less likely to irritate",
     "id": 6
   },
   {
-    "heading": "DARK CIRCLES",
-    "text": "DARK CIRCLES:\n- Caused by thin under-eye skin, blood vessels visibility, or lack of sleep\n- Use color correction: peach for cool-toned skin, yellow for warm-toned\n- Caffeine serum reduces puffiness by constricting blood vessels\n- Under-eye masks 2x weekly for hydration\n- Sleep 7-9 hours for best results\n- Retinol helps thicken skin under eyes (use with caution)",
+    "heading": "ROUTINE FOR BEGINNERS",
+    "text": "ROUTINE FOR BEGINNERS:\n1. Gentle cleanser (AM & PM)\n2. Moisturizer suited to skin type (AM & PM)\n3. Sunscreen SPF 30+ (AM only)\n- Stick with these 3 for 2-4 weeks before adding anything new\n- Introduce one new product every 2 weeks\n- Always patch test new products first",
     "id": 7
   },
   {
-    "heading": "ANTI-AGING",
-    "text": "ANTI-AGING:\n- Collagen production decreases 1% per year after age 20\n- Retinol is gold standard for fine lines and wrinkles\n- Vitamin C serum brightens and boosts collagen\n- Peptides signal skin to produce more collagen\n- SPF is the best anti-aging product (prevents photoaging)\n- Hydration plumps skin and reduces fine lines appearance",
+    "heading": "ACNE TYPES & TREATMENT",
+    "text": "ACNE TYPES & TREATMENT:\n- Whiteheads: closed clogged pores, surface-level, respond well to BHA/Salicylic Acid\n- Blackheads: open clogged pores, oil oxidizes and darkens, respond to BHA and clay masks\n- Papules: small, red, inflamed bumps without pus\n- Pustules: inflamed bumps with visible pus, classic \"pimple\"\n- Nodules: large, painful, deep bumps under the skin, may need dermatologist treatment\n- Cysts: deep, painful, fluid-filled, highest risk of scarring, often needs prescription treatment\n- Closed comedones: tiny, skin-colored bumps, respond to BHA and retinoids\n- Fungal acne (Malassezia folliculitis): uniform small itchy bumps, does NOT respond to typical acne treatment, needs antifungal treatment instead\n- Hormonal acne: typically jawline/chin, worsens around menstrual cycle, benefits from Niacinamide, Adapalene, sometimes prescription spironolactone\n- Body acne (bacne): same principles as facial acne, use BHA/Benzoyl Peroxide body wash, change out of sweaty clothes promptly",
     "id": 8
   },
   {
-    "heading": "SENSITIVE SKIN",
-    "text": "SENSITIVE SKIN:\n- Avoid: fragrance, essential oils, alcohol, sulfates\n- Use: gentle cleansers, minimal steps, hypoallergenic products\n- Patch test new products on arm first\n- Introduce one new product every 2 weeks\n- Avoid: acids, vitamin C, retinol (unless tolerated)\n- Focus on barrier repair with ceramides and niacinamide",
+    "heading": "ACNE TREATMENT INGREDIENTS",
+    "text": "ACNE TREATMENT INGREDIENTS:\n- Benzoyl peroxide (2.5-5%) kills acne-causing bacteria and unclogs pores\n- Salicylic acid (0.5-2%) exfoliates and prevents clogging, oil-soluble\n- Tretinoin (prescription) is highly effective for moderate to severe acne\n- Adapalene (0.1%, over-the-counter) regulates cell turnover, good for closed comedones\n- Azelaic acid (10-15%) reduces inflammation, bacteria, and post-acne dark marks\n- Niacinamide (2-5%) reduces sebum production and calms inflammation\n- Avoid picking/popping - increases scarring and infection risk\n- Results typically take 6-8 weeks to become visible with new treatments\n- Hydrocolloid patches draw out fluid from whiteheads overnight without trauma to skin",
     "id": 9
+  },
+  {
+    "heading": "POST-ACNE MARKS & SCARRING",
+    "text": "POST-ACNE MARKS & SCARRING:\n- Post-inflammatory hyperpigmentation (PIH): flat, brown/dark marks left after a pimple heals, fades with Vitamin C, Niacinamide, Azelaic Acid, and SPF over 6-12 weeks\n- Post-inflammatory erythema (PIE): flat, red/pink marks, responds to gentle care and time, sometimes vascular laser for persistent cases\n- Atrophic scars (dents/indentations): true structural scarring, needs Retinoids/Vitamin C for gradual improvement, or professional microneedling/laser/peels for real change\n- Hypertrophic/keloid scars (raised): more common on body than face, may need silicone sheets or in-office treatment",
+    "id": 10
+  },
+  {
+    "heading": "HYPERPIGMENTATION & SKIN DARKENING (NOT dark circles)",
+    "text": "HYPERPIGMENTATION & SKIN DARKENING (NOT dark circles):\n- General causes: sun exposure, post-inflammatory marks from acne/injury, hormonal changes (melasma), aging, friction\n- Melasma: symmetrical brown patches, often on cheeks/forehead/upper lip, triggered by hormones and sun exposure, worsens with sun and heat\n- Sun tanning/sun damage: uneven dark patches from UV exposure, prevented with daily SPF, treated with Vitamin C, Niacinamide, and gentle exfoliation\n- Treatment ingredients: Vitamin C, Niacinamide, Alpha Arbutin, Azelaic Acid, Tranexamic Acid, and Retinoids for cell turnover\n- Daily SPF 30-50+ is non-negotiable when treating any form of darkening - unprotected sun exposure undoes progress\n- Results for hyperpigmentation typically take 8-16 weeks of consistent treatment; melasma can take longer and may need dermatologist-strength treatment\n- Body dark spots/patches (arms, legs, underarms): often from friction or sun, treated similarly with brightening ingredients and SPF",
+    "id": 11
+  },
+  {
+    "heading": "DARK CIRCLES (UNDER-EYE SPECIFIC)",
+    "text": "DARK CIRCLES (UNDER-EYE SPECIFIC):\n- Blue/purple circles: usually thin under-eye skin showing blood vessels underneath\n- Brown circles: hyperpigmentation from sun exposure, rubbing, or genetics\n- Puffy circles: fluid retention from sleep position, salt intake, or allergies\n- Caffeine serum reduces puffiness by temporarily constricting blood vessels\n- Vitamin C and Niacinamide eye creams help brighten pigmentation-based circles over 4-6 weeks\n- Retinol eye cream can thicken thin under-eye skin over time (use gentle, low concentration)\n- Peach/salmon color corrector cancels blue-toned shadows before concealer\n- Sleep 7-9 hours; genetics also play a significant role and full elimination isn't always possible",
+    "id": 12
+  },
+  {
+    "heading": "ANTI-AGING",
+    "text": "ANTI-AGING:\n- Collagen production naturally decreases roughly 1% per year after age 20\n- Retinoids (Retinol, Retinal, Tretinoin) are the gold standard for fine lines, texture, and firmness\n- Vitamin C serum brightens skin and boosts collagen synthesis, best used in the morning\n- Peptides signal skin cells to produce more collagen, well-tolerated by most skin types\n- Daily SPF is considered the single best anti-aging product, preventing photoaging (80-90% of visible aging is UV-related)\n- Hydration plumps skin and temporarily reduces the appearance of fine lines\n- Bakuchiol is a plant-derived retinol alternative with similar effects and less irritation, suitable for sensitive skin\n- Facial massage and gua sha can temporarily improve circulation and reduce puffiness but don't replace active ingredients",
+    "id": 13
+  },
+  {
+    "heading": "BARRIER DAMAGE & REPAIR",
+    "text": "BARRIER DAMAGE & REPAIR:\n- Signs of a damaged barrier: stinging, burning, redness, tightness, sensitivity to previously tolerated products\n- Common causes: over-exfoliation, too many actives at once, harsh cleansers, over-washing\n- Recovery protocol: stop all actives (acids, retinol, vitamin C) for 1-2 weeks\n- Use only a gentle cleanser, a barrier-repair moisturizer (ceramides, panthenol, centella asiatica), and mineral SPF\n- Recovery typically takes 10-14 days of a simplified routine\n- If stinging persists beyond 2 weeks of bare-bones care, consult a dermatologist rather than continuing to experiment",
+    "id": 14
+  },
+  {
+    "heading": "SENSITIVE SKIN & ROSACEA",
+    "text": "SENSITIVE SKIN & ROSACEA:\n- Sensitive skin: avoid fragrance, essential oils, alcohol, sulfates, and strong actives unless well-tolerated\n- Rosacea: chronic facial redness, sometimes with visible blood vessels or bumps, common triggers include heat, spicy food, alcohol, and sun\n- Rosacea-safe ingredients: Azelaic Acid (10%), Centella Asiatica, Colloidal Oatmeal, mineral sunscreen\n- Rosacea ingredients to avoid: fragrance, essential oils, alcohol, strong AHAs like glycolic acid, high-strength Vitamin C\n- Patch test all new products on the inner arm or behind the ear for 24-48 hours before full facial use\n- Introduce only one new product every 2 weeks to isolate any reactions",
+    "id": 15
+  },
+  {
+    "heading": "ECZEMA & PSORIASIS GENERAL AWARENESS",
+    "text": "ECZEMA & PSORIASIS GENERAL AWARENESS:\n- Eczema (atopic dermatitis): dry, itchy, inflamed patches, often in skin folds, benefits from fragrance-free moisturizers with ceramides and ongoing dermatologist care\n- Psoriasis: thick, scaly, well-defined red patches, an autoimmune condition requiring medical diagnosis and treatment, not resolved by typical skincare routines\n- Both conditions benefit from gentle, fragrance-free products, but proper diagnosis and treatment require a dermatologist, not over-the-counter skincare alone",
+    "id": 16
+  },
+  {
+    "heading": "INGREDIENT DEEP DIVES",
+    "text": "INGREDIENT DEEP DIVES:\n- AHA (Glycolic Acid, Lactic Acid): water-soluble, works on skin surface, best for dryness, dullness, uneven tone\n- BHA (Salicylic Acid): oil-soluble, penetrates pores, best for oily/acne-prone skin, blackheads, whiteheads\n- PHA (Gluconolactone, Lactobionic Acid): larger molecule, gentle exfoliation, best for sensitive/reactive skin\n- Niacinamide: regulates oil, strengthens barrier, reduces inflammation and pigment transfer, well-tolerated by nearly all skin types\n- Hyaluronic Acid: humectant, holds water in skin, apply to damp skin and seal with moisturizer for best results\n- Ceramides: lipids that rebuild and strengthen the skin barrier, beneficial for dry, sensitive, and aging skin\n- Peptides: amino acid chains that signal collagen production, support firmness over 8-12 weeks of use\n- Vitamin C (L-Ascorbic Acid): antioxidant, brightens, boosts collagen, best in morning under SPF, can be irritating at high concentrations\n- Azelaic Acid: anti-inflammatory, antibacterial, brightening, safe for rosacea and pregnancy, gentle enough for sensitive skin\n- Retinoids: increase cell turnover, boost collagen, introduce slowly (1-2x weekly, increasing gradually), always paired with daytime SPF\n- Squalane: lightweight, non-comedogenic oil mimicking skin's natural sebum, suitable for all skin types\n- Snail mucin: hydrating, wound-healing, contains glycoproteins and hyaluronic acid, popular in K-beauty routines\n- Centella Asiatica (Cica): calming, anti-inflammatory, supports barrier repair and wound healing",
+    "id": 17
+  },
+  {
+    "heading": "INGREDIENT MYTHS & COMMON MISCONCEPTIONS",
+    "text": "INGREDIENT MYTHS & COMMON MISCONCEPTIONS:\n- Coconut oil is highly comedogenic (rated 4 out of 5 on the comedogenic scale) and commonly clogs pores, especially for oily or acne-prone skin\n- Coconut oil does NOT provide reliable sun protection; lab studies show it blocks only a small fraction of UV rays (roughly SPF 1-8), far below the SPF 30+ needed for real protection\n- \"Natural\" does not mean non-irritating; poison ivy, citrus oils, and many essential oils are natural but cause reactions\n- Essential oils (lavender, citrus, tea tree undiluted) are common causes of contact irritation and should be used diluted, if at all, especially on the face\n- Toothpaste on pimples is not recommended; the menthol, baking soda, and fluoride can irritate and dry out skin without treating the underlying cause\n- Lemon juice on skin is not recommended; citric acid is highly irritating and photosensitizing, increasing sunburn risk\n- Baking soda is too alkaline for skin (pH ~9) and disrupts the skin's natural acidic barrier (pH ~4.5-5.5) when used as a scrub or mask\n- Popping pimples with \"clean hands\" still carries scarring and infection risk; hydrocolloid patches are a safer alternative\n- Pore size cannot be permanently reduced; only its appearance can be minimized through clean pores, hydration, and smoother texture\n- Expensive skincare is not inherently more effective than drugstore; the active ingredient and its concentration matter far more than brand or price\n- Skin does not \"purge toxins\"; breakouts after starting a new product are usually irritation or purging from increased cell turnover (with actives like retinoids), not detoxification\n- Collagen applied topically in creams cannot be absorbed into skin due to molecule size; ingredients like Retinoids, Vitamin C, and Peptides help skin PRODUCE its own collagen instead\n- Vitamin C and Niacinamide can be used together safely; the old myth that they \"cancel out\" has been disproven by modern cosmetic chemistry",
+    "id": 18
+  },
+  {
+    "heading": "COMEDOGENIC PORE-CLOGGING INGREDIENTS TO WATCH FOR",
+    "text": "COMEDOGENIC PORE-CLOGGING INGREDIENTS TO WATCH FOR:\n- High comedogenic risk: coconut oil, cocoa butter, wheat germ oil, algae extract, isopropyl myristate, isopropyl palmitate, lanolin (for some skin types), oleic acid-rich oils\n- Lower comedogenic risk / generally safer for acne-prone skin: squalane, hyaluronic acid, niacinamide, jojoba oil, mineral oil (cosmetic grade, contrary to popular belief), non-comedogenic labeled products\n- \"Non-comedogenic\" on a label is a helpful indicator but not independently regulated/verified in most countries, so patch testing still matters",
+    "id": 19
+  },
+  {
+    "heading": "SUNSCREEN GUIDANCE AND MYTHS",
+    "text": "SUNSCREEN GUIDANCE AND MYTHS:\n- No natural oil (coconut, olive, almond, etc.) provides adequate sun protection; only formulated sunscreens with tested SPF values should be relied on\n- Higher SPF numbers have diminishing returns: SPF 30 blocks ~97% of UVB, SPF 50 blocks ~98% - reapplication frequency matters more than chasing higher SPF numbers\n- Sunscreen is needed daily regardless of weather; UVA rays penetrate clouds and glass\n- Physical/Mineral sunscreen (Zinc Oxide, Titanium Dioxide): reflects UV rays, gentler for sensitive skin, can leave a white cast\n- Chemical sunscreen (Avobenzone, Octinoxate, Octisalate): absorbs UV rays, typically lighter texture, no white cast\n- Broad-spectrum protects against both UVA (aging) and UVB (burning) rays\n- Reapply every 2 hours when in direct sun, or after swimming/sweating\n- Proper application amount for the face is roughly 1/4 teaspoon; most people apply too little, reducing actual protection",
+    "id": 20
+  },
+  {
+    "heading": "DIY HOME REMEDY SAFETY NOTES",
+    "text": "DIY HOME REMEDY SAFETY NOTES:\n- Apple cider vinegar as a toner is highly acidic and commonly causes chemical burns when used undiluted\n- Sugar or salt scrubs can create micro-tears in skin, especially on the face, which is more delicate than body skin\n- Egg white masks provide minimal proven benefit and carry a small salmonella exposure risk if skin has any open breaks\n- Cinnamon and other spice-based DIY masks are common causes of irritant contact dermatitis",
+    "id": 21
+  },
+  {
+    "heading": "BODY SKINCARE",
+    "text": "BODY SKINCARE:\n- Keratosis Pilaris (KP): rough, tiny bumps on arms/thighs, treated with Urea or Lactic Acid lotions, gentle exfoliation, avoid aggressive scrubbing\n- Body acne (bacne): treated like facial acne with Salicylic Acid or Benzoyl Peroxide body wash, left on skin briefly before rinsing\n- Stretch marks: form when skin stretches faster than collagen can adapt, cannot be fully removed but can fade with Retinoids and hydration over months, professional options include microneedling and laser\n- Body dark spots: from friction or sun, treated with Alpha Arbutin, Niacinamide, or Vitamin C body lotion plus SPF on exposed areas",
+    "id": 22
+  },
+  {
+    "heading": "LIP CARE",
+    "text": "LIP CARE:\n- Chapped lips respond to gentle exfoliation (1-2x weekly) plus occlusive balms with Shea Butter, Lanolin, or Petrolatum\n- Avoid balms with menthol, camphor, or eucalyptus - they feel cooling but increase dryness over time\n- Licking lips worsens dryness as saliva evaporates and pulls moisture with it\n- Matte liquid lipsticks are drying with daily wear; balance with a hydrating lip treatment",
+    "id": 23
+  },
+  {
+    "heading": "NAIL AND CUTICLE CARE",
+    "text": "NAIL AND CUTICLE CARE:\n- Weak, peeling nails often result from moisture loss, harsh chemical exposure, or nutrient gaps (biotin, protein)\n- Daily cuticle oil (Jojoba, Vitamin E) supports nail health\n- Frequent gel manicures and acetone removers weaken the nail plate over time; nails benefit from breaks between gel sets\n- Wearing gloves for dishwashing/cleaning reduces water-related nail weakening",
+    "id": 24
+  },
+  {
+    "heading": "HAIR AND SCALP CARE",
+    "text": "HAIR AND SCALP CARE:\n- Some hair shedding (50-100 strands daily) is normal\n- Excessive or patchy shedding may signal stress, hormonal changes, or nutrient deficiency (iron, vitamin D, biotin) - consider a doctor's evaluation if persistent\n- Rosemary oil scalp serum has research showing effectiveness comparable to Minoxidil for some users\n- Oily scalp with flaking may be excess sebum, product buildup, or seborrheic dermatitis (a yeast-related condition)\n- Anti-dandruff actives: Zinc Pyrithione, Ketoconazole, Salicylic Acid shampoos\n- Over-washing scalp can increase oil production as it compensates; every-other-day washing is often ideal for oily scalps\n- Silk pillowcases reduce hair friction and breakage compared to cotton",
+    "id": 25
+  },
+  {
+    "heading": "MENS GROOMING",
+    "text": "MENS GROOMING:\n- Men's skin tends to be oilier and thicker on average, but core skincare needs (cleanse, moisturize, SPF) don't differ by gender\n- Bar soap is generally too alkaline/drying for facial use; a gel or foam cleanser is gentler\n- Razor bumps (pseudofolliculitis barbae): prevented by shaving with the grain, using a sharp single-blade razor, and hydrating shave products\n- Post-shave care benefits from alcohol-free balms with Centella Asiatica or Aloe Vera\n- BHA toner 2-3x weekly on shaved areas helps prevent ingrown hairs",
+    "id": 26
+  },
+  {
+    "heading": "MAKEUP AND SKIN INTERACTION",
+    "text": "MAKEUP AND SKIN INTERACTION:\n- Daily makeup wear does not inherently damage skin if removed thoroughly and applied with clean tools\n- Double cleansing at night removes makeup/SPF residue that a single cleanse often misses\n- Non-comedogenic labeled foundations are preferable for acne-prone skin\n- Cakey foundation is usually a skin-prep issue (dryness, product mismatch) rather than a foundation quality issue\n- Match primer and foundation formula type (water-based with water-based, silicone with silicone) to avoid pilling\n- Foundation shade should be tested on the jawline in natural light, allowing 5-10 minutes for oxidation before judging the match\n- Replace makeup sponges every 2-3 months and clean brushes weekly to prevent bacterial buildup",
+    "id": 27
+  },
+  {
+    "heading": "PRODUCT APPLICATION ORDER",
+    "text": "PRODUCT APPLICATION ORDER:\n- Morning: cleanser, toner (optional), antioxidant serum (Vitamin C), eye cream, moisturizer, sunscreen (always last)\n- Evening: cleanser (double cleanse if wearing makeup/SPF), toner (optional), treatment serum (retinol or exfoliating acid, not both same night), eye cream, moisturizer\n- General rule: apply thinnest/most water-based products first, building to thicker/oil-based products last\n- Face oils, when used, go last as a sealing step after moisturizer",
+    "id": 28
+  },
+  {
+    "heading": "SEASONAL SKINCARE ADJUSTMENTS",
+    "text": "SEASONAL SKINCARE ADJUSTMENTS:\n- Summer: lighter gel moisturizers, more frequent SPF reapplication, oil control if needed\n- Winter: richer, more occlusive moisturizers, reduced frequency of strong exfoliants, continued daily SPF (snow glare and altitude increase UV exposure)\n- Transition by how skin actually feels rather than a fixed calendar date",
+    "id": 29
+  },
+  {
+    "heading": "LIFESTYLE FACTORS AFFECTING SKIN",
+    "text": "LIFESTYLE FACTORS AFFECTING SKIN:\n- High-sugar, high-glycemic foods can spike insulin and worsen acne in some people\n- Dairy is linked to hormonal acne flares in some individuals, though not universally\n- Omega-3 fatty acids (salmon, walnuts, flaxseed) support skin barrier and reduce inflammation\n- Adequate hydration (roughly 2 liters/8 glasses daily) supports overall skin function, though it won't directly cure acne\n- Sleep deprivation is linked to increased inflammation, dullness, and slower skin repair\n- Chronic stress can worsen acne, eczema, and psoriasis through cortisol-related inflammation\n- Smoking accelerates collagen breakdown and premature skin aging\n- Regular exercise improves circulation, which can support a healthy complexion, but sweat should be cleansed promptly to avoid clogged pores",
+    "id": 30
+  },
+  {
+    "heading": "PREGNANCY SAFE SKINCARE NOTES",
+    "text": "PREGNANCY SAFE SKINCARE NOTES:\n- Retinoids (Retinol, Tretinoin, Retinal) are generally advised against during pregnancy and breastfeeding; consult an OB-GYN or dermatologist before use\n- Salicylic Acid in leave-on, high concentrations is often advised against during pregnancy; low-concentration wash-off products are generally considered lower risk but should be discussed with a doctor\n- Pregnancy-safe alternatives for similar concerns: Azelaic Acid, Vitamin C, Niacinamide, Bakuchiol\n- Always confirm any new active ingredient with a doctor during pregnancy or while breastfeeding, since guidance can be individual",
+    "id": 31
+  },
+  {
+    "heading": "WHEN TO SEE A DOCTOR RED FLAGS",
+    "text": "WHEN TO SEE A DOCTOR RED FLAGS:\n- A mole that changes size, shape, color, or bleeds\n- Sudden, severe swelling, especially with difficulty breathing (possible allergic reaction - seek emergency care)\n- Red streaking spreading from a wound or blemish (possible spreading infection)\n- Persistent rash lasting weeks that doesn't respond to gentle care\n- Fever combined with widespread skin peeling (possible serious systemic reaction, seek emergency care)\n- Severe, persistent, or worsening acne unresponsive to over-the-counter treatment\n- Sudden or patchy hair loss\n- Suspected melasma, rosacea, eczema, or psoriasis for proper diagnosis and prescription-strength options",
+    "id": 32
   },
   {
     "heading": "Example Q&A",
     "text": "Q: How do I treat acne scars?\nA: Acne scars can be treated with several approaches:",
-    "id": 10
+    "id": 33
   },
   {
     "heading": "1. Topical treatments",
     "text": "1. Topical treatments:\n- Retinol/Tretinoin: stimulates collagen remodeling (3-6 months)\n- Vitamin C serum: brightens and improves skin quality\n- Niacinamide: improves skin elasticity",
-    "id": 11
+    "id": 34
   },
   {
     "heading": "2. Professional treatments",
     "text": "2. Professional treatments:\n- Microneedling: creates controlled injury to boost collagen (3-5 sessions)\n- Chemical peels: removes damaged top layers (multiple sessions)\n- Laser therapy: resurfaces skin and stimulates collagen\n- Dermaroller: similar to microneedling but at-home",
-    "id": 12
+    "id": 35
   },
   {
     "heading": "3. Home care while treating",
     "text": "3. Home care while treating:\n- Use SPF 50+ daily (prevents pigmentation)\n- Avoid picking at skin\n- Stay hydrated and sleep well\n- Use gentle cleanser and hyaluronic acid serum",
-    "id": 13
+    "id": 36
   },
   {
     "heading": "3. Home care while treating",
     "text": "3. Home care while treating:\nResults take 2-3 months minimum. Consistency is key!",
-    "id": 14
+    "id": 37
   },
   {
     "heading": "Example Q&A",
     "text": "Q: What's the best sunscreen?\nA: The best sunscreen is one you'll actually use daily! Here's how to choose:",
-    "id": 15
+    "id": 38
   },
   {
     "heading": "3. Home care while treating",
     "text": "3. Home care while treating:\n1. SPF level: SPF 30 blocks 97% of UVB; SPF 50+ blocks 98% (minimal difference)",
-    "id": 16
+    "id": 39
   },
   {
     "heading": "2. Type",
     "text": "2. Type:\n- Chemical: absorbs UV rays, lighter feel, better for oily skin\n- Physical: reflects UV rays, better for sensitive skin\n- Hybrid: combines both benefits",
-    "id": 17
+    "id": 40
   },
   {
     "heading": "3. Texture options",
     "text": "3. Texture options:\n- Lotion: easiest to apply evenly\n- Serum: lightweight, cosmetically elegant\n- Powder: touch-up friendly\n- Stick: good for face and lips",
-    "id": 18
+    "id": 41
   },
   {
     "heading": "4. Must-haves",
     "text": "4. Must-haves:\n- Broad-spectrum (blocks UVA & UVB)\n- Water-resistant (80+ minutes)\n- Reapply every 2 hours or after swimming",
-    "id": 19
+    "id": 42
   },
   {
     "heading": "4. Must-haves",
     "text": "4. Must-haves:\nPro tip: You need 1/4 teaspoon for face. Most people use too little!",
-    "id": 20
+    "id": 43
   },
   {
     "heading": "Example Q&A",
     "text": "Q: How do I minimize pores?\nA: Pores can't be changed in size (genetically determined), but you can minimize their appearance:",
-    "id": 21
+    "id": 44
   },
   {
     "heading": "1. Keep pores clean",
     "text": "1. Keep pores clean:\n- Use BHA (salicylic acid) 2-3x weekly\n- Clay masks for deep cleansing\n- Double cleanse at night",
-    "id": 22
+    "id": 45
   },
   {
     "heading": "2. Make them appear smaller",
     "text": "2. Make them appear smaller:\n- Primer fills pores and smooths texture\n- Moisturize (dehydrated skin shows pore size more)\n- Use retinol (improves skin firmness)\n- Avoid over-stripping (causes pores to enlarge)",
-    "id": 23
+    "id": 46
   },
   {
     "heading": "3. Professional options",
     "text": "3. Professional options:\n- Laser treatments tighten skin\n- Chemical peels remove dead skin\n- Microneedling stimulates collagen",
-    "id": 24
+    "id": 47
   },
   {
     "heading": "3. Professional options",
     "text": "3. Professional options:\nRegular exfoliation and hydration are your best friends!",
-    "id": 25
+    "id": 48
   },
   {
     "heading": "Example Q&A",
     "text": "Q: Is it okay to use retinol every day?\nA: NO - most people should start slow with retinol:",
-    "id": 26
+    "id": 49
   },
   {
     "heading": "1. Beginner approach",
     "text": "1. Beginner approach:\n- Start 1-2x per week\n- Use low concentration (0.25-0.5%)\n- Gradually increase frequency over 2-3 months\n- Can eventually use daily for some people",
-    "id": 27
+    "id": 50
   },
   {
     "heading": "2. Why go slow",
     "text": "2. Why go slow:\n- Retinization period: 4-12 weeks of potential irritation\n- Side effects: redness, peeling, sensitivity\n- Using too much = compromised barrier",
-    "id": 28
+    "id": 51
   },
   {
     "heading": "3. Once adapted",
     "text": "3. Once adapted:\n- Can use nightly (if skin tolerates)\n- OR 3-4x weekly maximum for sensitive skin\n- Always use SPF 50+ during day (retinizes your skin to sun sensitivity)",
-    "id": 29
+    "id": 52
   },
   {
     "heading": "4. Avoid mixing with",
     "text": "4. Avoid mixing with:\n- Acids (BHA/AHA)\n- Vitamin C (can be irritating)\n- Benzoyl peroxide (both are strong)",
-    "id": 30
+    "id": 53
   },
   {
     "heading": "4. Avoid mixing with",
     "text": "4. Avoid mixing with:\nStart low, go slow!",
-    "id": 31
+    "id": 54
+  },
+  {
+    "heading": "Example Q&A",
+    "text": "Q: Is coconut oil good for my face?\nA: Coconut oil is not recommended as a primary face moisturizer for most skin types, especially oily or acne-prone skin:",
+    "id": 55
+  },
+  {
+    "heading": "1. Comedogenic risk",
+    "text": "1. Comedogenic risk:\n- Rated 4 out of 5 on the comedogenic scale\n- Commonly clogs pores and can trigger breakouts",
+    "id": 56
+  },
+  {
+    "heading": "2. Sun protection myth",
+    "text": "2. Sun protection myth:\n- Does NOT provide reliable SPF protection (roughly SPF 1-8 in lab tests)\n- Never substitute it for a real, tested sunscreen",
+    "id": 57
+  },
+  {
+    "heading": "3. Where it can work",
+    "text": "3. Where it can work:\n- Body moisturizer for non-acne-prone skin\n- Hair treatment (scalp and ends, avoiding acne-prone areas)\n- Very dry, non-reactive skin types in small amounts",
+    "id": 58
+  },
+  {
+    "heading": "4. Better face alternatives",
+    "text": "4. Better face alternatives:\n- Squalane (non-comedogenic, lightweight)\n- Jojoba oil (mimics skin's natural sebum, lower comedogenic risk)\n- Hyaluronic acid + ceramide moisturizer for hydration without clogging",
+    "id": 59
+  },
+  {
+    "heading": "4. Better face alternatives",
+    "text": "4. Better face alternatives:\nPatch test anything new for 48 hours, and always use a proper sunscreen - no oil replaces it!",
+    "id": 60
+  },
+  {
+    "heading": "Example Q&A",
+    "text": "Q: My skin is getting dark, what should I do?\nA: General skin darkening (different from under-eye dark circles) is usually caused by sun exposure, post-acne marks, hormonal changes, or friction:",
+    "id": 61
+  },
+  {
+    "heading": "1. Identify the likely cause",
+    "text": "1. Identify the likely cause:\n- Sun exposure: uneven tan or patches on sun-exposed areas\n- Melasma: symmetrical brown patches, often cheeks/forehead, hormone-related\n- Post-acne marks: dark spots specifically where breakouts used to be\n- Friction: dark patches on areas like underarms, knees, elbows",
+    "id": 62
+  },
+  {
+    "heading": "2. Brightening ingredients to use",
+    "text": "2. Brightening ingredients to use:\n- Vitamin C (morning) for brightening and antioxidant protection\n- Niacinamide for evening tone and barrier support\n- Alpha Arbutin or Azelaic Acid for targeted pigment fading\n- Retinoids at night to speed up cell turnover",
+    "id": 63
+  },
+  {
+    "heading": "3. Non-negotiable step",
+    "text": "3. Non-negotiable step:\n- Daily SPF 30-50+ - unprotected sun exposure will undo any progress and can worsen darkening",
+    "id": 64
+  },
+  {
+    "heading": "4. Timeline",
+    "text": "4. Timeline:\n- Expect visible fading over 8-16 weeks with consistent use\n- Melasma can take longer and sometimes needs a dermatologist for prescription-strength treatment",
+    "id": 65
+  },
+  {
+    "heading": "4. Timeline",
+    "text": "4. Timeline:\nIf the darkening appeared suddenly, is asymmetrical, or is changing rapidly, it's worth a dermatologist visit to rule out other causes.",
+    "id": 66
   }
 ]
