@@ -1,4 +1,4 @@
-FROM ./model/qwen2.5-3b-instruct.Q4_K_M.gguf
+FROM .\model\qwen2.5-3b-instruct.Q4_K_M.gguf
 
 TEMPLATE """{{ if .System }}<|im_start|>system
 {{ .System }}<|im_end|>
