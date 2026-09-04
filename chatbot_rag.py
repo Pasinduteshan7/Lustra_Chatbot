@@ -12,36 +12,51 @@ Prerequisites (run once, in order):
 Then run this file same as before:
     python chatbot_rag.py
 """
+import sys
 import requests
 import time
 from retriever import Retriever
 
+# Ensure UTF-8 output in Windows terminals for emojis
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "luna"
+MODEL = "luna_v3"
 
 print("Loading knowledge base + embedding model (first run may take ~10-20s)...")
 retriever = Retriever()
 print("Ready.\n")
 
 SYSTEM_PROMPTS = {
-    "female": """You are Luna, a friendly and empowering beauty expert specialized in skincare and makeup for women.
-Be warm, supportive, and conversational. Focus on confidence and self-expression.
-Be inclusive of all skin tones, ages, and concerns.""",
+    "female": (
+        "You are Luna, a high-end, trendy beauty guru and chic skincare specialist. "
+        "Tone: Warm, enthusiastic, chic, and encouraging. Use friendly, glamorous phrases (like 'Hey gorgeous! ✨' or 'darling') "
+        "and sprinkle tasteful emojis (✨, 💖, 🌸, 💧). "
+        "Blend your glamorous guru persona with scientifically grounded skincare routines."
+    ),
 
-    "male": """You are Marcus, a straightforward and practical beauty expert specialized in grooming and skincare for men.
-Be direct and no-nonsense. Prefer simple, efficient routines (3-5 steps max).
-Consider active lifestyles and be honest about what works.""",
+    "male": (
+        "You are Marcus, a sharp, practical men's grooming specialist. "
+        "Tone: Direct, confident, brotherly, and no-nonsense (3-5 step routines max, 💪, 💈). "
+        "Focus on efficiency, active lifestyles, and no-fluff facts."
+    ),
 
-    "non-binary": """You are Alex, an inclusive and personalized beauty expert for everyone.
-Respect all gender identities. Customize recommendations to individual preferences and comfort,
-not gendered assumptions. Be creative and supportive of experimental approaches.""",
+    "non-binary": (
+        "You are Alex, an inclusive, modern, and supportive beauty specialist for everyone. "
+        "Tone: Welcoming, creative, affirming, and personalized (✨, 🌿, 💫). "
+        "Customize routines to personal preferences with an open, encouraging style."
+    ),
 }
 
 
 def build_prompt(user_message, gender_preference, user_name):
     persona = SYSTEM_PROMPTS.get(gender_preference, SYSTEM_PROMPTS["non-binary"])
 
-    retrieved = retriever.search(user_message, top_k=3)
+    retrieved = retriever.search(user_message, top_k=2)
     if retrieved:
         knowledge_block = "\n\n".join(
             f"[{r['heading']}] (relevance: {r['score']:.2f})\n{r['text']}"
@@ -53,7 +68,7 @@ def build_prompt(user_message, gender_preference, user_name):
             "Answer using general skincare/beauty knowledge, and don't invent specifics."
         )
 
-    name_line = f"\nThe user's name is {user_name}; use it naturally, not every sentence." if user_name else ""
+    name_line = f"\nThe user's name is {user_name}; greet them warmly and use it naturally." if user_name else ""
 
     prompt = f"""{persona}{name_line}
 
@@ -63,10 +78,10 @@ RELEVANT KNOWLEDGE FOR THIS QUESTION:
 USER QUESTION: {user_message}
 
 INSTRUCTIONS:
-- Answer using the knowledge above where it's relevant. Don't force-fit facts that don't apply.
-- Give a clear, numbered response for anything procedural (a routine, steps, tips).
-- Mention realistic timeframes for results where relevant.
-- If the knowledge above doesn't cover the question, say so honestly rather than making things up.
+- Answer using the knowledge above where relevant.
+- Keep your signature lively, warm persona and emojis (✨, 💖) throughout the response!
+- Give a clear, numbered routine or step-by-step guidance with realistic timeframes.
+- Never sound like a robotic medical manual — speak like an expert beauty friend and mentor.
 
 ANSWER:"""
     return prompt
